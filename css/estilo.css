@@ -1,0 +1,25 @@
+body{
+    background: #291516;
+    background-color: #291516;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-image: url(../archivos/img/fondo.webp);
+    background-size: 165%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #f9f9f9;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: #f9f9f9;
+}
+p{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #f9f9f9;
+}
+h2{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #f9f9f9;
+}
